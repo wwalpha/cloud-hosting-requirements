@@ -26,11 +26,14 @@
 
 ## Scalability
 * 必要か
-* アクセスのピーク？
-* 今後想定同時アクセス数
+* リリース後想定の同時アクセス数、ピークアクセス有無
+* リリース後、３ヶ月、６ヶ月、１年、想定する同時アクセス数？ピークアクセス有無
+* 例えば、キャンペーンやイベントよる大量アクセス発生
 
 ## Reliability
-* MultiAZ
+* Web Server
+* AP Server
+* Database
 
 ## Disaster Recovery
 * 復旧時間
@@ -40,6 +43,8 @@
 ## SPOF(Single point of failure)
 * 許容範囲
 
-## CI/CD ?
+## CI/CD
+* Agile?
+* WaterFall
 
-## Auto Operation ?
+## Auto Operation
