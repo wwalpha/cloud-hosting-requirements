@@ -44,7 +44,9 @@
 * 許容範囲
 
 ## CI/CD
+* 必要？
 * Agile?
 * WaterFall
 
 ## Auto Operation
+* リリースのため、サービス停止の許容範囲 (0H, 1H, 6H, 24H...)
