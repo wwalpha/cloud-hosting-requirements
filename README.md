@@ -20,7 +20,7 @@
 * 
 
 ## Cost
-* 
+* Tags? 複数アカウントのリソース使用コストの明確
 
 ## 
 
@@ -50,3 +50,12 @@
 
 ## Auto Operation
 * リリースのため、サービス停止の許容範囲 (0H, 1H, 6H, 24H...)
+
+## Performance
+* Multi Region
+* Use serverless architectures
+
+## Monitoring
+* Zabbix
+* XRay
+
